@@ -1,0 +1,35 @@
+register 0410024_1 0410024
+register 0410024_2 0410024
+register 0410024_3 0410024
+login 0410024_1 0410024
+login 0410024_2 0410024
+login 0410024_3 0410024
+invite 0410024_1 0410024_2
+accept-invite 0410024_2 0410024_1
+invite 0410024_2 0410024_3
+accept-invite 0410024_3 0410024_2
+list-friend 0410024_1
+list-friend 0410024_2
+list-friend 0410024_3
+post 0410024_1 Hi I am A
+post 0410024_2 Hi I am B
+post 0410024_3 Hi I am C
+receive-post 0410024_1
+receive-post 0410024_2
+receive-post 0410024_3
+delete 0410024_1
+delete 0410024_2
+delete 0410024_3
+exit
+
+
+
+
+
+
+login 0410024_1 0410024
+login 0410024_2 0410024
+login 0410024_3 0410024
+delete 0410024_1
+delete 0410024_2
+delete 0410024_3
