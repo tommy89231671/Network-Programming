@@ -11,6 +11,6 @@ HW3: Server Side
 HW4: Add subscribe function
   ---Based on HW2 and HW4, add subscribe function via ActiveMQ.
   
-HW5: Build all the stuff on AWS.
+HW5: Build all the stuff on AWS
   ---Build two kinds of server on EC2. Loing_server for keeping listening to the client. Application_server for dealing with the client's request. Build a database on RDS (MySQL).
   
